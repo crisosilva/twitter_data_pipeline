@@ -17,7 +17,8 @@ pip install psycopg2
 ```
 
   <h2>:hammer_and_wrench: Construído com</h2>
-O pipeline de dados foi construido utilizando a linguagem de programação Python a IDE PyCharm e as bilbiotecas json, tweepy
+O pipeline de dados foi construido utilizando a linguagem de programação Python a IDE PyCharm e as bilbiotecas json, tweepy, Kafka-python 
+e psycopg2
 
   <h2>:rotating_light: Possiveis Problemas</h2>
 
@@ -28,8 +29,10 @@ Projeto criado por Cristiano Oliveira
 Version: 1.0.0
 
  <h2>:book: Referências</h2>
-<a href="https://docs.tweepy.org/en/stable/">Tweepy</a>
-<a href="https://kafka-python.readthedocs.io/en/master/">Kafka</a>
-<a href="https://www.psycopg.org/docs/">Psycopg2</a>
+ <ul>
+<li><a href="https://docs.tweepy.org/en/stable/">Tweepy</a></li>
+<li><a href="https://kafka-python.readthedocs.io/en/master/">Kafka</a></li>
+<li><a href="https://www.psycopg.org/docs/">Psycopg2</a></li>
+  </ul>
 
 
