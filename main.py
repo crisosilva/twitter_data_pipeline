@@ -33,10 +33,10 @@ with DAG(
         import tweepy
 
         # Keys for twitter API
-        consumer_key = '5D2W2T07IPRS9iHFQZ1MrqegZ'
-        consumer_secret = 'iMcforzvlmZPrQbd6zpMhxr5HgQMKUPlvH12ndOEyC2JQlJTVM'
-        access_token = '1110170575727706112-QrQBm9EdnmCrj4yE0oGYITaPxXMoYN'
-        access_token_secret = '97fP70IbJtAGJgfl1z7kKnaDChLGXHwrsn4Ie4l7PW3Te'
+        consumer_key = 'xxx'
+        consumer_secret = 'xxx'
+        access_token = 'xxx'
+        access_token_secret = 'xxx'
 
         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
         auth.set_access_token(access_token, access_token_secret)
