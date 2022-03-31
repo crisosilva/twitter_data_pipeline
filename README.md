@@ -35,7 +35,6 @@ Version: 1.0.0
  <h2>:book: Referências</h2>
  <ul>
 <li><a href="https://docs.tweepy.org/en/stable/">Tweepy</a></li>
-<li><a href="https://kafka-python.readthedocs.io/en/master/">Kafka</a></li>
 <li><a href="https://www.psycopg.org/docs/">Psycopg2</a></li>
   </ul>
 
