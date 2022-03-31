@@ -12,15 +12,19 @@ Para instalar as bibliotecas utilize os comandos abaixo:
 
 ```
 pip install tweepy
-pip install kafka-python
 pip install psycopg2
 ```
 
   <h2>:hammer_and_wrench: Construído com</h2>
-O pipeline de dados foi construido utilizando a linguagem de programação Python a IDE PyCharm e as bilbiotecas json, tweepy, Kafka-python 
-e psycopg2
+O pipeline de dados foi construido utilizando a linguagem de programação Python a IDE PyCharm e as bilbiotecas tweepy e psycopg2
 
   <h2>:rotating_light: Possiveis Problemas</h2>
+  Durante a instalação da biblioteca psycopg2, foi encontardo o erro "<a style='red'>ERROR: Failed building wheel for psycopg2"</a>, então conforme as instruções
+  do site dos desenvolvedores da biblioteca foi instalado a biblioteca usando o comando:
+  
+```
+pip install psycopg2-binary
+```
 
   <h2>:black_nib: Autores</h2>
 Projeto criado por Cristiano Oliveira
