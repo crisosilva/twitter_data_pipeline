@@ -1,4 +1,4 @@
-  <h1 align='center'>:speaker: :speech_balloon: Data Pipeline with Kafka</h1>
+  <h1 align='center'>:speaker: :speech_balloon: Data Pipeline</h1>
 O pipeline de dados realiza a coleta dos Twitter trending topics, faz a conexão com um banco do Postgres, verifica se o registro
 capturado ja consta na tabela, caso não haja o registro é realizada a inserção do mesmo.
 
